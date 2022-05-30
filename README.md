@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Road2Glory
 - 👀 I’m interested in Web development and Software development
 - 🌱 I’m currently learning Laravel and Java Jee
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me ...
 
 <!---
